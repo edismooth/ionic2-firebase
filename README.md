@@ -1,7 +1,7 @@
 # ionic2-firebase
 1. Run **_npm install_**
 2. Add platforms: **_ionic platform add android_** and **_ionic platform add ios_**
-3. Install plugin **_cordova plugin add cordova-plugin-fcm_**
+3. Install plugin **_cordova plugin add cordova-plugin-fcm --save_**
 4. Create project on https://console.firebase.google.com
 5. Add 2 new apps - one for Android and one for iOS
 6. Copy **google-service.json** file to **platforms/android** directory for Android.
