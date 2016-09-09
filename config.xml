@@ -38,4 +38,5 @@
     <preference name="xwalkCommandLine" value="--disable-pull-to-refresh-effect" />
     <preference name="xwalkMode" value="embedded" />
     <preference name="xwalkMultipleApk" value="true" />
+    <plugin name="cordova-plugin-fcm" spec="~1.1.4" />
 </widget>
